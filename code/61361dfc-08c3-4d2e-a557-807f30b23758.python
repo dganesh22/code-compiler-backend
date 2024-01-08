@@ -1,0 +1,2 @@
+site_name = 'programiz.pro'
+print(site_name)
